@@ -2,6 +2,7 @@
 
 ![Followers](https://img.shields.io/github/followers/hk21x?style=flat&logo=github&label=followers)
 ![Stars](https://img.shields.io/github/stars/hk21x?style=flat&logo=github&label=total%20stars)
+![Downloads](https://img.shields.io/github/downloads/hk21x?style=flat&logo=github&label=total%20stars)
 
 I build tools for problems I keep running into, and I reverse-engineer original Xbox games so they run natively on PC.
 
