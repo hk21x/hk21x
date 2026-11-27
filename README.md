@@ -20,6 +20,9 @@ These are static recompilation projects. Each one translates an original Xbox ex
 | [**pgr1-recomp**](https://github.com/hk21x/pgr1-recomp) | Project Gotham Racing | [![](https://img.shields.io/github/v/release/hk21x/pgr1-recomp?include_prereleases&style=flat&label=)](https://github.com/hk21x/pgr1-recomp/releases/latest) | ![](https://img.shields.io/github/stars/hk21x/pgr1-recomp?style=flat&label=) | ![](https://img.shields.io/github/downloads/hk21x/pgr1-recomp/total?style=flat&label=) |
 | [**juiced-recomp**](https://github.com/hk21x/juiced-recomp) | Juiced | [![](https://img.shields.io/github/v/release/hk21x/juiced-recomp?include_prereleases&style=flat&label=)](https://github.com/hk21x/juiced-recomp/releases/latest) | ![](https://img.shields.io/github/stars/hk21x/juiced-recomp?style=flat&label=) | ![](https://img.shields.io/github/downloads/hk21x/juiced-recomp/total?style=flat&label=) |
 | [**50cent-recomp**](https://github.com/hk21x/50cent-recomp) | 50 Cent: Bulletproof | [![](https://img.shields.io/github/v/release/hk21x/50cent-recomp?include_prereleases&style=flat&label=)](https://github.com/hk21x/50cent-recomp/releases/latest) | ![](https://img.shields.io/github/stars/hk21x/50cent-recomp?style=flat&label=) | ![](https://img.shields.io/github/downloads/hk21x/50cent-recomp/total?style=flat&label=) |
+| [**fightnight2-recomp**](https://github.com/hk21x/fightnight2-recomp) | Fight Night: Round 2 | [![](https://img.shields.io/github/v/release/hk21x/fightnight2-recomp?include_prereleases&style=flat&label=)](https://github.com/hk21x/fightnight2-recomp/releases/latest) | ![](https://img.shields.io/github/stars/hk21x/fightnight2-recomp?style=flat&label=) | ![](https://img.shields.io/github/downloads/hk21x/fightnight2-recomp/total?style=flat&label=) |
+
+https://github.com/hk21x/fightnight2-recomp
 
 They're all built on my fork of [XboxXBERecomp](https://github.com/hk21x/XboxXBERecomp).
 
